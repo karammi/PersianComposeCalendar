@@ -16,3 +16,5 @@ rootProject.name = "PersianComposeCalendar"
 include ':app'
 include ':persian-calendar:ComposeCalendar'
 include ':persian-calendar:Calendar'
+include ':persian-calendar:CalendarSheet'
+include ':persian-calendar:CalendarDatePicker'
