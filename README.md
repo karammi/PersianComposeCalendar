@@ -8,4 +8,4 @@ Custom Persian Calendar
 - MVVM pattern
 
 
-Based on MIT licnse
+Based on MIT license
